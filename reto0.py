@@ -1,5 +1,5 @@
 
-for k in range(0,100):
+for k in range(1,100):
     divisibleEntre3 = k % 3 == 0    
     divisibleEntre5 = k % 5 == 0
 
